@@ -6,3 +6,9 @@
 Project for Software Engineering2 
 
 Cs392
+
+This workshop consists of two tasks:
+
+The first task was released in V0.1.0
+
+The second task was released in V0.2.0
