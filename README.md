@@ -9,6 +9,6 @@ Cs392
 
 This workshop consists of two tasks:
 
-The first task was released in V0.1.0
+The first task was published in V0.1.0
 
-The second task was released in V0.2.0
+The second task was published in V0.2.0
