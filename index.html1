@@ -1,0 +1,35 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Your front-end</title>
+
+  
+</head>
+<h1 style="color: red; ;text-align: center;" >  FOOD website
+    <img src="fun-food-logo.jpg"style="float :right; width:300px;;height:300px;"> 
+</h1>
+  
+<body style="text-align: center;"> 
+<form  action="/fasttext"  > Please enter text here <br><br>
+	<input  id="input" type="text" name="data" placeholder="Food name"><br><br>
+    
+	<input type="submit" value="Submit" style="background-color: green; 
+                        color: white" onclick="showInput()">
+    <input type="reset" value="Reset" 
+                style="background-color: red; 
+                        color: white" />
+</form> 
+
+ <label > here your data </label>
+ <p><span id='display'></span></p>
+ <form action="", method="">
+              </br></br><input type="text" name="" /></br></br>
+              <input type="text" name="" /></br></br>
+             
+             
+
+</body>
+
+</html> 
